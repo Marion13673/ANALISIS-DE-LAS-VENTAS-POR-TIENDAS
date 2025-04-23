@@ -66,9 +66,8 @@ cual venden más y obtienen mayores ingresos. De tal foma de entregar una conclu
 
 
 **Archivos del Proyecto** 📂
-index.html: Estructura del proyecto.
-style.css: Estilos del proyecto.
-app.js: Lógica de JavaScript para agregar nombres y realizar el sorteo.
+CSV: Archivos con la base de datos de cada tienda
+Jupyter Notebook 100.0%: Proyecto creado en Google colaboratory
 
 **Instrucciones para Ejecutar** 🚀
 Clona este repositorio en tu máquina local.
