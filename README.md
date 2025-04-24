@@ -61,11 +61,13 @@ cual venden más y obtienen mayores ingresos. De tal foma de entregar una conclu
 
 - **Lenguaje**:
   * **Python**
+    
 - **Bibliotecas Principales**:
   * **Pandas**: Manipulación y análisis de datos estructurados.
   * **NumPy**: Trabajo con arrays multidimensionales y cálculos matemáticos.
   * **Matplotlib**: Creación de gráficos y visualizaciones de datos.
-
+  * **Seaborn**: Biblioteca avanzada para visualizaciones estadísticas y estilizadas, ideal para explorar datos y destacar relaciones entre variables.
+    
 **Instalación** 💽
 
 Ejecuta el siguiente comando para instalar las bibliotecas necesarias:
